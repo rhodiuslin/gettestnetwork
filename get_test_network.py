@@ -60,6 +60,6 @@ def get_network(name = 'karate', datapath = '.', relabel=True):
 if __name__ == '__main__':
     # example usage
     G = get_network('karate','../output',relabel=False)
-    print G.nodes()
-    print G.edges()
+    # print G.nodes()
+    # print G.edges()
     
