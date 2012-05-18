@@ -1,6 +1,6 @@
 gettestnetwork
 ==============
-A small python scripy that gets a test network from those collected by Mark Newman (http://www-personal.umich.edu/~mejn/netdata/).
+A small python scripy that gets a couple of test networks collected by Mark Newman (http://www-personal.umich.edu/~mejn/netdata/).
 
 Example
 =======
